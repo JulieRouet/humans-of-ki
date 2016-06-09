@@ -1,0 +1,58 @@
+#jour {
+  height: 50px;
+  width: 600px;
+  background-color: #ffbf11;;
+  padding: 0;
+
+  }
+
+  ul {
+    list-style-type:none;
+    padding: 0;
+
+     }
+li {
+  font-style: Arial;
+  list-style: none;
+  margin-left: 3px;
+
+
+}
+
+ul li a {
+  display:block;
+  float:left;
+  margin-left: 10px;
+  margin-top: 15px;
+  
+  padding: 2px;
+  font-family: 'Raleway', sans-serif;;
+  color:black;
+  font-weight: 900;
+  font-size: 12px;
+}
+
+ul li a:hover {
+ background:black;
+ color:white;
+ text-decoration:none;
+ }
+
+#lundi {
+  height: 100vh;
+}
+.contenu {
+  margin-top: 50px;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+p {
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  margin-top: 3px;
+
+}
